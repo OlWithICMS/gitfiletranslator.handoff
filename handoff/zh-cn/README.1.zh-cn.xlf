@@ -1,0 +1,7 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /><xliffext:skl_file_name xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">55ecb18c-2202-4695-8ad0-cf69caaf3bea977ac7a0fe11d3077275f582315be0ed163b2c57.skl</xliffext:skl_file_name><xliffext:version xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1.2</xliffext:version><xliffext:source_file_hash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">977ac7a0fe11d3077275f582315be0ed163b2c57</xliffext:source_file_hash><xliffext:source_revision_number xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1</xliffext:source_revision_number><xliffext:source_file_Path xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">README.md</xliffext:source_file_Path></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>gitfiletranslator</source>
+          <target state="new">gitfiletranslator</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>' 1111</source>
+          <target state="new">' 1111</target>
+        </trans-unit></group></body></file></xliff>
